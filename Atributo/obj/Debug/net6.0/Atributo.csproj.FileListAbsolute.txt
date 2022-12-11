@@ -1,0 +1,13 @@
+D:\jala\Back\Atributo\Atributo\bin\Debug\net6.0\Atributo.exe
+D:\jala\Back\Atributo\Atributo\bin\Debug\net6.0\Atributo.deps.json
+D:\jala\Back\Atributo\Atributo\bin\Debug\net6.0\Atributo.runtimeconfig.json
+D:\jala\Back\Atributo\Atributo\bin\Debug\net6.0\Atributo.dll
+D:\jala\Back\Atributo\Atributo\bin\Debug\net6.0\Atributo.pdb
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.csproj.AssemblyReference.cache
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.GeneratedMSBuildEditorConfig.editorconfig
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.csproj.CoreCompileInputs.cache
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.dll
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\refint\Atributo.dll
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.pdb
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\Atributo.genruntimeconfig.cache
+D:\jala\Back\Atributo\Atributo\obj\Debug\net6.0\ref\Atributo.dll
